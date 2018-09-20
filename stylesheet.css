@@ -1,9 +1,20 @@
+/* Colors
+  Gray: #8e8e8e
+  Light blue: #eafdf8
+  Light purple: #e5e9ec
+  Medium purple: #ddcad9
+  Dark purple: #d1b1cb
+  Black: #000
+  White: #fff
+  */
+
 * {
-  font-family:Helvetica;
+  background-color: gray;
+  font-family:"Palatino";
 }
 
 .header {
-
+  color: white;
 }
 
 .objective {
