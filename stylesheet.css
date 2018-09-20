@@ -1,6 +1,7 @@
 /* Colors
   Gray: #8e8e8e
   Light blue: #eafdf8
+  Dark blue: #435e57
   Light purple: #e5e9ec
   Medium purple: #ddcad9
   Dark purple: #d1b1cb
@@ -17,11 +18,13 @@
   color: white;
   text-align: center;
   line-height: 10px;
-  border: solid 3px #fff;
+  border: solid 3px #eafdf8;
+  border-radius: 15px;
   width: 350px;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 3px 2px 2px #000;
+  box-shadow: 5px 5px 2px #435e57;
+  padding: 10px;
 }
 
 .header h1 {
@@ -35,11 +38,48 @@
 }
 
 .objective {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 3px #eafdf8;
+  border-radius: 15px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  box-shadow: 5px 5px 2px #435e57;
+  padding: 10px;
+  font-size: 14px;
+  color: #ddcad9;
+}
+
+.objective h2 {
+  color: #d1b1cb;
+  font-size: 24px;
 
 }
 
 .experience {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 3px #eafdf8;
+  border-radius: 15px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  box-shadow: 5px 5px 2px #435e57;
+  padding: 10px;
+  font-size: 14px;
+  color: #ddcad9;
+}
 
+.experience h2 {
+  color: #d1b1cb;
+  font-size: 24px;
+}
+
+.experience h3 {
+  color: #e5e9ec;
 }
 
 .barSeparation {
@@ -47,5 +87,25 @@
 }
 
 .school {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 3px #eafdf8;
+  border-radius: 15px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  box-shadow: 5px 5px 2px #435e57;
+  padding: 10px;
+  font-size: 14px;
+  color: #ddcad9;
+}
 
+.school h2 {
+  color: #d1b1cb;
+  font-size: 24px;
+}
+
+.school h3 {
+  color: #e5e9ec;
 }
