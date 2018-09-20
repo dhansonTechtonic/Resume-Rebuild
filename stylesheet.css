@@ -1,5 +1,7 @@
 /* Colors
   Gray: #8e8e8e
+  Dark Gray #666666
+  Darker Gray: #444444
   Light blue: #eafdf8
   Dark blue: #435e57
   Light purple: #e5e9ec
@@ -10,20 +12,23 @@
   */
 
 * {
-  background-color: #8e8e8e;
   font-family:"Palatino";
+}
+
+body {
+  background-color: #666;
 }
 
 em {
   color: #d1b1cb;
 }
 
-b {
+p b {
   color: #d1b1cb;
 }
 
 .header {
-  color: white;
+  color: #fff;
   text-align: center;
   line-height: 10px;
   border: solid 3px #eafdf8;
@@ -31,8 +36,9 @@ b {
   width: 350px;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 10px 10px 2px #435e57;
+  box-shadow: 10px 10px 2px #444444;
   padding: 10px;
+  background-color: #8e8e8e;
 }
 
 .header h1 {
@@ -54,10 +60,11 @@ b {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
-  box-shadow: 10px 10px 2px #435e57;
+  box-shadow: 10px 10px 2px #444444;
   padding: 10px;
   font-size: 14px;
   color: #ddcad9;
+  background-color: #8e8e8e;
 }
 
 .objective h2 {
@@ -76,10 +83,11 @@ b {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
-  box-shadow: 10px 10px 2px #435e57;
+  box-shadow: 10px 10px 2px #444444;
   padding: 10px;
   font-size: 14px;
   color: #ddcad9;
+  background-color: #8e8e8e;
 }
 
 .experience h2 {
@@ -110,10 +118,11 @@ b {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
-  box-shadow: 10px 10px 2px #435e57;
+  box-shadow: 10px 10px 2px #444444;
   padding: 10px;
   font-size: 14px;
   color: #ddcad9;
+  background-color: #8e8e8e;
 }
 
 .school h2 {
