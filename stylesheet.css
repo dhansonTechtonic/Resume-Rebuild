@@ -15,6 +15,18 @@
   font-family:"Palatino";
 }
 
+.fa-line-chart {
+  margin: 5px;
+}
+
+.fa-clock-o {
+  margin: 5px;
+}
+
+.fa-graduation-cap {
+  margin: 5px;
+}
+
 body {
   background-color: #666;
 }
