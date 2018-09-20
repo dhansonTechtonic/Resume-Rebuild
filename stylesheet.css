@@ -9,12 +9,29 @@
   */
 
 * {
-  background-color: gray;
+  background-color: #8e8e8e;
   font-family:"Palatino";
 }
 
 .header {
   color: white;
+  text-align: center;
+  line-height: 10px;
+  border: solid 3px #fff;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 3px 2px 2px #000;
+}
+
+.header h1 {
+  color: #d1b1cb;
+}
+
+.header h2 {
+  color: #ddcad9;
+  font-size: 15px;
+  line-height: 5px;
 }
 
 .objective {
