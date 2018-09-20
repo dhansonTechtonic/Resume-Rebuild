@@ -106,7 +106,8 @@ p b {
   height: 5px;
   margin-left: auto;
   margin-right: auto;
-  margin: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .school {
