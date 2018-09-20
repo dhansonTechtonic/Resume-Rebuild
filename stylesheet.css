@@ -14,6 +14,14 @@
   font-family:"Palatino";
 }
 
+em {
+  color: #d1b1cb;
+}
+
+b {
+  color: #d1b1cb;
+}
+
 .header {
   color: white;
   text-align: center;
@@ -28,7 +36,7 @@
 }
 
 .header h1 {
-  color: ##eafdf8;
+  color: #fff;
 }
 
 .header h2 {
@@ -53,7 +61,7 @@
 }
 
 .objective h2 {
-  color: #d1b1cb;
+  color: #fff;
   font-size: 24px;
   text-align: center;
 
@@ -75,7 +83,7 @@
 }
 
 .experience h2 {
-  color: #d1b1cb;
+  color: #fff;
   font-size: 24px;
   text-align: center;
 }
@@ -109,7 +117,7 @@
 }
 
 .school h2 {
-  color: #d1b1cb;
+  color: #fff;
   font-size: 24px;
   text-align: center;
 }
