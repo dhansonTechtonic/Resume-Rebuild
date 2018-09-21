@@ -55,7 +55,6 @@ p b {
 
 .header h1 {
   color: #fff;
-  margin-bottom: 10px;
 }
 
 marquee {
@@ -66,6 +65,7 @@ marquee {
   color: #ddcad9;
   font-size: 15px;
   line-height: 5px;
+  margin-bottom: 10px;
 }
 
 .objective {
