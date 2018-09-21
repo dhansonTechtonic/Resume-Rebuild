@@ -55,6 +55,7 @@ p b {
 
 .header h1 {
   color: #fff;
+  font-size: 32px;
 }
 
 .header h2 {
@@ -111,16 +112,17 @@ p b {
 
 .experience h3 {
   color: #e5e9ec;
+  font-size: 22px;
 }
 
 .barSeparation {
   background-color: #eafdf8;
-  width: 350px;
+  width: 320px;
   height: 5px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 3px;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
 }
 
 .school {
@@ -147,4 +149,5 @@ p b {
 
 .school h3 {
   color: #e5e9ec;
+  font-size: 22px;
 }
