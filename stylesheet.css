@@ -55,6 +55,11 @@ p b {
 
 .header h1 {
   color: #fff;
+  margin-bottom: 10px;
+}
+
+marquee {
+  color: #eafdf8;
 }
 
 .header h2 {
